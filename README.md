@@ -4,7 +4,8 @@ GMBinder Source Code for a popular unfinished 5e conversion of spelljammer
 Unfinished and abandoned per creator: https://www.reddit.com/user/Ubiquity4321
 
 The list of to-dos before adbandonment: https://www.gmbinder.com/share/-LE2no63kgklr7RoFN9N
-ToDo:
+
+List from to-do link:
 
     Fix stations
         Magic officer
