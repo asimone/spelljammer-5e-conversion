@@ -1,5 +1,7 @@
 # spelljammer-5e-conversion
-GMBinder Source Code for a popular unfinished 5e conversion of spelljammer
+GMBinder Source Code for a popular unfinished 5e conversion of Spelljammer:
+
+https://www.gmbinder.com/share/-LBaY4l6HcR4M-sItfl_
 
 Unfinished and abandoned per creator: https://www.reddit.com/user/Ubiquity4321
 
