@@ -1,9 +1,10 @@
 # spelljammer-5e-conversion
+Unfinished and abandoned per creator: https://www.reddit.com/user/Ubiquity4321
+
 GMBinder Source Code for a popular unfinished 5e conversion of Spelljammer:
 
 https://www.gmbinder.com/share/-LBaY4l6HcR4M-sItfl_
 
-Unfinished and abandoned per creator: https://www.reddit.com/user/Ubiquity4321
 
 The list of to-dos before adbandonment: https://www.gmbinder.com/share/-LE2no63kgklr7RoFN9N
 
