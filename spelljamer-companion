@@ -89,6 +89,7 @@ transform:scaleY(3)scaleX(1)'>Sword and Sorcery in Space</div>
 - **[Table of Contents](#p2)**
 - **[Contact Information](#p3)**
     - [Thanks](#p3)
+    - [Legal Information - Fan Content Policy](#p3)
     - [Art Credits](#p3)
     - [Contact Information](#p3)
 - **[Introduction](#p4)** - pg 4
@@ -97,58 +98,60 @@ transform:scaleY(3)scaleX(1)'>Sword and Sorcery in Space</div>
     - [Crystal Spheres](#p5) - pg 5
     - [The Phlogiston - pg 5](#p5)
     - [Space Travel - pg 6](#p6)
-    - [The Helm - pg 6](#p6)
-    - [Helm Rating - pg 7](#p7)
+    - [On Spelljamming Helms - pg 6](#p6)
+    - [Determining Helm Rating - pg 7](#p7)
     - [Ship Terminology - pg 8](#p8)
     - [Siege Weaponry - pg 8](#p8)
-- **[The Crew](#p10)** - pg 10
-    - [Green Crew - pg 10](#p10)
-    - [Trained/Crack Crew - pg 11](#p11)
-- **[Roles on the Ship](#p12)** - pg 12
-    - [Stations - pg 12](#p12)
-- **[Movement in Space](#p13)** - pg 13
-    - [Time in Space - pg 14](#p14)
-    - [Takeoff and Landing - pg 14](#p14)
-- **[Ship Combat](#p15)** - pg 15
-    - [Ship Actions - pg 15](#p15)
-      - [First Mate](#p15)
-      - [Magic Officer](#p15)
-      - [Helmsman](#p16)
-      - [Gunner](#p17)
-      - [Surgeon](#p18)
-      - [Engineer](#p18)
-    - [Critical Hits - pg 18](#p18)
-- **[Gravity](#p19)** - pg 19
+    - [Repairing and Scavenging - pg 10](#p10)
+    - [Tonnage and Cargo - pg 10](#pg10)
+- **[The Crew](#p11)** - pg 11
+    - [Green Crew - pg 12](#p12)
+    - [Trained/Crack Crew - pg 12](#p2)
+- **[Roles on the Ship](#p13)** - pg 13
+    - [Stations - pg 13](#p13)
+- **[Movement in Space](#p14)** - pg 14
+    - [Time in Space - pg 15](#p15)
+    - [Takeoff and Landing - pg 15](#p15)
+- **[Ship Combat](#p16)** - pg 16
+    - [Critical Hits - pg 16](#pg16)
+    - [Ship Actions - pg 17](#p17)
+      - [First Mate](#p17)
+      - [The Cook](#p18)
+      - [The Gunner](#p18)
+      - [The Helmsman](#p19)
+      - [The Magic Officer](#p20)
+      - [The Engineer](#p20)
 
 
 \columnbreak
 
 <div style='margin-top:190px'></div>
 
-- **[Air in Space](#p20)** - pg 20
-- **[Vehicles and Equipment](#p21)** - pg 21
-    - [Spelljamming Ships - pg 21](#p21)
-    - [Siege Weapons - pg 22](#p22)
-    - [Siege Weapon Ammunition - pg 22](#p22)
-    - [Other Equipment - pg 23](#p23)
-    - [Ship Upgrades - pg 23](#p23)
-- **[Magic in the Phlogiston](#p24)** - pg 24
-    - [Divine Magic - pg 24](#p24)
-    - [Teleportation and the Realms - pg 25](#p25)
-    - [Fire - pg 25](#p25)
-- **[Spells](#p26)** - pg 26
-- **[Feats](#p28)** - pg 28
-- **[Celestial Mechanics](#p29)** - pg 29
-    - [Creating your Universe - pg 29](#p29)
-    - [Type of System - pg 29](#p29)
-    - [Primary Body - pg 30](#p30)
-    - [Number of Planets - pg 30](#p30)
-    - [Orbits and Placement - pg 30](#p30)
-    - [Planet Statistics - pg 31](#p31)
-    - [Population and Technology - pg 32](#p32)
-    - [Random Encounters - pg 33](#p33)
-- **[Spelljammer Vessel Sheet](#p34)** - pg 34<br><br>
-- **[LEGAL INFORMATION - Fan Content Policy](#p35)**
+- **[Gravity](#p21)** - pg 21
+- **[Air in Space](#p22)** - pg 22
+- **[Vehicles and Equipment](#p23)** - pg 23
+    - [Spelljamming Ships - pg 23](#p23)
+    - [Siege Weapons - pg 24](#p24)
+    - [Siege Weapon Ammunition - pg 24](#p24)
+    - [Other Equipment - pg 25](#p25)
+    - [Ship Upgrades - pg 25](#p25)
+- **[Universal Magic](#p26)** - pg 26
+    - [Spell Ranges - pg 26](#p26)
+    - [Gods and Patroln - pg 26](#p26)
+    - [Teleportation and the Realms - pg 27](#p27)
+    - [Fire - pg 27](#p27)
+- **[Spells](#p28)** - pg 28
+- **[Feats](#p30)** - pg 30
+- **[Celestial Mechanics](#p31)** - pg 31
+    - [Creating your Universe - pg 31](#p31)
+    - [Type of System - pg 31](#p31)
+    - [Primary Body - pg 32](#p32)
+    - [Number of Planets - pg 32](#p32)
+    - [Orbits and Placement - pg 32](#p32)
+    - [Planet Statistics - pg 33](#p33)
+    - [Population and Technology - pg 34](#p34)
+    - [Random Encounters - pg 35](#p35)
+- **[Spelljammer Vessel Sheet](#p36)** - pg 36
 
 </div>
 
@@ -182,9 +185,13 @@ E-mail- TheSohnly [at] gmail [dot] com
 
 Much love, everyone. Thank you.
 
-## Legal
+## Legal Information - Fan Content Policy
 
 - This entire document is being published under [Wizards of the Coast Fan Content Policy](https://company.wizards.com/fancontentpolicy)
+
+- Spelljammer Companion: Sword and Sorcery in Space is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. © Wizards of the Coast LLC.
+
+- For more information on the Wizards of the Coast Fan Content policy, please see [This Website](https://company.wizards.com/fancontentpolicy)
 
 \columnbreak
 
@@ -205,7 +212,7 @@ All artwork in this document is published under either Creative Commons or a sim
 - BDWARF and MYTHSPLASH by [Earl Geier](https://www.freelanced.com/earlgeier)
 - SYSADVANCE, CULTSPLASH, CGGEAR, TMAGICARMORY, and TTEXTSPOT by [David Lewis Johnson](https://plus.google.com/101233968135072116767)
 - Project Mango Concept Art By <a href="//commons.wikimedia.org/wiki/User:Deevad" title="User:Deevad">David Revoy / Blender Foundation</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=22506899">Link</a>
-- Kevin Crawford of [Sine Nomine Publishsing](https://www.sinenomine-pub.com/)
+- Kevin Crawford of [Sine Nomine Publishing](https://www.sinenomine-pub.com/)
 - William "Captain" Kidd pirate illustration from 1905 book "An Alphabet of History" by Wilbur Dick Nesbit [Open Library Link](https://openlibrary.org/books/OL7159266M/An_alphabet_of_history)
 - Fighting Skeleton from a drawing in *The comic history of England*, Gilbert A'Beckett, 1897.
 - Star illustration [here, source was found, then lost](http://clipart-library.com/clipart/rcjGLkGXi.htm)
@@ -258,11 +265,11 @@ The Crystal Spheres are defiantly solid. They have no gravity along either their
 
 \columnbreak
 
- <div style="margin-top:250px;"></div>
+<div style="margin-top:250px;"></div>
 
 ### The Phlogiston
 
-Also called *The Flow*, the Phlogiston is a turbulent, unstable, multicolored, fluorescent gas-like medium which fills the regions between Crystal Spheres. For lack of a better definition, it is a river in which all Crystal Spheres bob, weave, and float. Its currents carry the spheres around a shifting stream, ever moving. Very little is known for certain about the Phlogiston, except for every system known is encased within a Crystal Sphere, and no known planetoids exist floating freely in the Phlogiston. Essentially, the Crystal Sphere keeps the Wildspace in and the Phlogiston out (which is a tremendous simplification, but it is easy to grasp). Phlogiston also cannot exist inside a Shell, and all attempts at doing so causes the somehow-captured Phologiston to have vanished upon inspection, leaving no traces. The rainbow ocean allows Spelljamming ships to attain greater velocities. These speeds have defied measurement since the phlogiston is without permanent landmarks or markers.
+Also called *The Flow*, the Phlogiston is a turbulent, unstable, multicolored, fluorescent gas-like medium which fills the regions between Crystal Spheres. For lack of a better definition, it is a river in which all Crystal Spheres bob, weave, and float. Its currents carry the spheres around a shifting stream, ever moving. Very little is known for certain about the Phlogiston, except for every system known is encased within a Crystal Sphere, and no known planetoids exist floating freely in the Phlogiston. Essentially, the Crystal Sphere keeps the Wildspace in and the Phlogiston out (which is a tremendous simplification, but it is easy to grasp). Phlogiston also cannot exist inside a Shell, and all attempts at doing so causes the somehow-captured Phlogiston to have vanished upon inspection, leaving no traces. The rainbow ocean allows Spelljamming ships to attain greater velocities. These speeds have defied measurement since the phlogiston is without permanent landmarks or markers.
 
 In general, it takes from 10-100 days to travel from one Crystal Sphere to another. The sphere reached is random, unless you have either a guide or a device installed in the ship to show you the way. Shortcuts exist through spheres to other spheres. Some spheres drift into and out of proximity with each other, so that just because you reach an area once does not mean that you will find it again. 
 
@@ -313,7 +320,7 @@ While piloting, the Helmsman can observe her surroundings normally, but also gai
 
 Use the table below to determine your Helm Rating to spellcaster level ratio when determining the ships overall Speed when using a helm to pilot a ship. A Minor Helm grants a 1:3 ratio of Helm Rating to spellcaster level, and a Major Helm grants a 1:2 ratio of Helm Rating to spellcaster level. This is similar to determining your spell slots when multiclassing, but all classes are able to provide motive force when using a helm to pilot a ship (*Players handbook p.163-164*)
 
-Add together all your levels in the Bard, Cleric, Druid, Sorceror, Warlock, and Wizard classes, half your levels (rounded down) in the Paladin, Monk, Ranger, Mystic, and Artificer classes, and a third of the levels taken in Fighter or Rogue classes (rounded down) if you have the Eldritch Knight or the Arcane Trickster archetype. Characters with levels in classes that do not grant the Spellcasting, Pact Magic, Psionics, or Ki abilities divide by four (rounded down, a minimum of 1) to determine Helm Rating.
+Add together all your levels in the Bard, Cleric, Druid, Sorcerer, Warlock, and Wizard classes, half your levels (rounded down) in the Paladin, Monk, Ranger, Mystic, and Artificer classes, and a third of the levels taken in Fighter or Rogue classes (rounded down) if you have the Eldritch Knight or the Arcane Trickster archetype. Characters with levels in classes that do not grant the Spellcasting, Pact Magic, Psionics, or Ki abilities divide by four (rounded down, a minimum of 1) to determine Helm Rating.
 
 **Example 1:** A 10th level wizard using a Minor Helm will have a spellcaster level of 10, and that same character grants a Helm Rating of 3 to the overall ship speed.
 
@@ -366,15 +373,27 @@ Add together all your levels in the Bard, Cleric, Druid, Sorceror, Warlock, and 
 
 ## Siege Weaponry
 
-A siege weapon is a device that is designed to break or circumvent city or castle walls and other fortifications. Most groundling-based siege weapons are immobile, constructed in place to attack enemy fortifications from a distance, while others are wheeled to enable advancing up to the enemy fortification. That being said, siege weaponry have been adopted to Space Warfare with fervor. All Siege weapons mounted on Spelljamming ships are on 360° rotating turrets, and may fire in any direction regardless of the facing of a ship. Before it can be fired, all siege weapons must be loaded and aimed. A Load, Aim, and Fire action are done using one Ship Action taken by the Gunner. 
+A siege weapon is a device that is designed to break or circumvent city or castle walls and other fortifications. Most groundling-based siege weapons are immobile, constructed in place to attack enemy fortifications from a distance, while others are wheeled to enable advancing up to the enemy fortification. That being said, siege weaponry have been adopted to Space Warfare with fervor. All Siege weapons mounted on Spelljamming ships are on 360° rotating turrets, and may fire in any direction regardless of the facing of a ship. Before it can be fired, all siege weapons must be loaded and aimed. A Load, Aim, and Fire action are done using one Ship Action taken by the Gunner.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For Siege Weaponry statistics, please see the<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Seige Weapons table, Page 22](#p22)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ballista**- A Ballista is a massive crossbow that<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fires heavy bolts. Before it can be fired, it must be<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;loaded and aimed. A Load, Aim, and Fire action are done<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;using one Ship Action taken by the Gunner.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In atmosphere near a planetoid, the<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Light Ballista has a 120/480 ft range,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and a Heavy Ballista has a 240/960<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ft range.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Gnomish Sweeper**- A Gnomish<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sweeper is a pair of light ballistas<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with a shared, common mount so that<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;they can be fired in the same<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;direction at the same time. The<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;two blunt bolts from these ballistas<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;are linked with a heavy chain (similar<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in image to nunchaku). The intention of<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the chain is to be used as an antipersonnel weapon against enemy crews.<br>
 
-                 For Siege Weaponry statistics, please see the                      [Seige Weapons table, Page 22](#p22)
-
-                **Ballista**- A Ballista is a massive crossbow that              fires heavy bolts. Before it can be fired, it must be       loaded and aimed. A Load, Aim, and Fire action are done                               using one Ship Action taken by the Gunner.
-
-                                   In atmosphere near a planetoid, the                                           Light Ballista has a 120/480 ft range,                                           and a Heavy Ballista has a 240/960 ft range.
-
-                                       **Gnomish Sweeper**- A Gnomish                                           Sweeper is a pair of light ballistas                                        with a shared, common mount so that                                                    they can be fired in the same                                                 direction at the same time. The                                              two blunt bolts from these ballistas                                        are linked with a heavy chain (similar                                     in image to nunchaku). The intention of                                  the chain is to be used as an antipersonnel weapon against enemy crews.
 
 A Gnomish Sweeper affects all targets in a 10-foot square. It will continue on into the next 10 foot square away from the ship firing it unless it meets with a large, unmovable object, which cause the Sweeper Bolts to drop to the deck. In addition, every target within the 10-foot square is forced to make a Reflex save (DC 13). On failure, the targets fall prone and gain the grappled condition. The Gnomish Sweeper does not inflict hull damage with the Sweeper Rounds, but can be used as a dual Light Ballista in a crunch, with the same requirements for crew as two Light Ballistas (the weapon does not fire unless both bolts are loaded).
 
@@ -452,7 +471,7 @@ During your travels, it may be necessary to repair your ship at port or when you
 
 Tool Proficiencies -
 
-Proficency with Water, Land, Air, or Spelljamming vehicles 
+Proficiency with Water, Land, Air, or Spelljamming vehicles 
 
 Carpenters Tools
 
@@ -546,7 +565,7 @@ Say about how much food can sustain people and how much space stuff takes up.
 <img src='https://www.gmbinder.com/images/TN3SKuL.png' style='position:absolute;top:0px;right:85px;width:400px;transform:rotate(0deg);filter:opacity(100%)grayscale(100%);'/>
 
 # The Crew
-A good crew is the lifesblood of a sailing vessel. A ship cannot sail without a crew, and a crew cannot sail without a ship. They are interlinked, cosmically. The best crews will make voyages pleasent for you and terrible for your enemies. A Spelljamming ship sailing without a crew will will fly at half Speed, as the needed functions of turning the sails, operating the oars, or maintaining the ship itself will have to be done by the party members. All spelljamming ships have two crew numbers as listed in the chart on Spelljamming Ships and Equipment- The minimum needed to run the ship, and the max that the craft can hold without overloading it’s atmosphere. Crews are divided into three classifications: **Green**, **Trained**, and **Crack**. Standard costs per crew member per month are below:
+A good crew is the lifesblood of a sailing vessel. A ship cannot sail without a crew, and a crew cannot sail without a ship. They are interlinked, cosmically. The best crews will make voyages pleasant for you and terrible for your enemies. A Spelljamming ship sailing without a crew will will fly at half Speed, as the needed functions of turning the sails, operating the oars, or maintaining the ship itself will have to be done by the party members. All spelljamming ships have two crew numbers as listed in the chart on Spelljamming Ships and Equipment- The minimum needed to run the ship, and the max that the craft can hold without overloading it’s atmosphere. Crews are divided into three classifications: **Green**, **Trained**, and **Crack**. Standard costs per crew member per month are below:
 
 - Green: 2 gp per standard month
 - Trained: 4 gp per standard month
@@ -618,7 +637,7 @@ Medium Humanoid (any race), any alignment
 
 \columnbreak
 
- 
+
 
 <div style="margin-top:555px;"></div>
 
@@ -681,7 +700,7 @@ The Gunner is in charge of maintaining and firing the weapons systems aboard a S
 
 \columnbreak
 
- <div style="margin-top:150px;"></div>
+<div style="margin-top:150px;"></div>
 
 #### Helmsman
 The Helmsman is in charge of navigating the ship through spaces unknown. This station is appointed to, more often than not, the most able-bodied mage aboard a Spelljamming ship. Generally sits below-deck. This role is required to be filled for the ship to move throughout wildspace and beyond.
@@ -761,7 +780,7 @@ For more information on how a universe is laid out and created, as well as optio
 
 #### Takeoff & Landing
 
-When taking off from a planetary body, a certain amount of time is required to allow the Helm to overcome the force of normal gravity and fully leave the planets’ gravity well. The amount of time it takes to leave the planets’ Gravity Well are listed below:
+When taking off from a planetary body, a certain amount of time is required to allow the Helm to overcome the force of normal gravity and fully leave the planet’s gravity well. The amount of time it takes to leave the planet’s Gravity Well are listed below:
 
 - Size A, B, & C – Ten minutes
 - Size D, E, & F – Twenty minutes
@@ -807,7 +826,7 @@ Crewed siege weapons often have a chance of inflicting a Critical Hit to enemy v
 
 \columnbreak
 
- <div style="margin-top:290px;"></div>
+<div style="margin-top:290px;"></div>
 
 **Hull Holed**- The attack punches a sizable hole in the ship. DM decides location. If three total holes are scored on any vessel of 50 tonnes or less, it's internal structure is destroyed and the vessel starts to break apart. For vessels larger than 50 tonnes, the number of holes needed to break apart a vessel is 1 per 15 tonnes of the ship, rounded down.
 
@@ -815,7 +834,7 @@ Crewed siege weapons often have a chance of inflicting a Critical Hit to enemy v
 
 **Deck crew Damage**- One creature on deck is struck and suffers either the same damage as the ship or 2d10, whichever is lower. Choose the target randomly from all above-deck. All creatures within 5ft (generally members of the same group) must make a DC 12 Dexterity saving throw or suffer the same damage.
 
-**Interior crew Damage**- Same as a *Deck crew Damage* Critial Hit, but everyone not on deck is a potential target, including Helmsman, passengers, and prisoners. This reflects not so much the attack itself, but shattered parts of the ship bouncing around during combat.
+**Interior crew Damage**- Same as a *Deck crew Damage* Critical Hit, but everyone not on deck is a potential target, including Helmsman, passengers, and prisoners. This reflects not so much the attack itself, but shattered parts of the ship bouncing around during combat.
 
 **Ship weapon damaged**- One ship weapon (chosen randomly) is damaged and inoperable until repaired. Duration of repair is 1d4 rounds. Any crew on the weapon is unharmed. If no weapons exist on-board the ship, roll again.
 
@@ -836,7 +855,7 @@ During your ships turn, each character may perform one *Ship Action* pertaining 
 
 Ship Actions are declared at the beginning of the combat round, before individual combat actions, and take place simultaneously - If a ship doesn't have enough members to crew the siege weapons and repair damage, while also repelling invaders, then priorities will have to be decided. Many ship actions are listed below for each station on a ship, but this is not an exhaustive list.
 
-The rule is that if a player can perform the action and explain how their described Ship Action would help the ship, crew, or situation in any way, and would reasonably take under one minute, it can be considered their Ship Action for the turn. Players are encouraged to come up with new and unique solutionss. DM's are encouraged to say "yes, and".
+The rule is that if a player can perform the action and explain how their described Ship Action would help the ship, crew, or situation in any way, and would reasonably take under one minute, it can be considered their Ship Action for the turn. Players are encouraged to come up with new and unique solutions. DM's are encouraged to say "yes, and".
 
 A ship combat round, with each character performing a ship action and a normal round of combat actions, lasts for one minute. If a player wishes to cast a spell with a one minute casting time, then no Ship Action can be used that round for that character, as they are busy casting a spell.
 
@@ -872,12 +891,12 @@ provides both long- and short-term benefits through the use of magical ingredien
 - *Short Order*<br>
 The *Cook* whips up a quick, magical meal that can provide a limited benefit to a group of crew members assigned to a task (such as the crew assigned to turning the sails, or the crew assigned to repairing damage to the ship). It takes one Ship Action to prepare the meal and one Ship Action to serve the meal to a group of crew members. A group of crew members can only be under the effects of one Short Order at a time.
 
-  * <u>Fortunate Cookies</u>: A wafery snack with an philosophic quip wrapped inside. Until the end of their next ship combat turn, any crew that eats the Fortunate Cookies may roll a d6 and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Fortunate Cookie die, but must decide before the DM says whether the roll succeeds or fails. Once the Fortunate Cookie die is rolled, it is lost. A creature can have only one Fortunate Cookie die at a time.
+  * <u>Fortunate Cookies</u>: A wafer-like snack with an philosophic quip wrapped inside. Until the end of their next ship combat turn, any crew that eats the Fortunate Cookies may roll a d6 and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Fortunate Cookie die, but must decide before the DM says whether the roll succeeds or fails. Once the Fortunate Cookie die is rolled, it is lost. A creature can have only one Fortunate Cookie die at a time.
 
   * <u>Hearty Noodles</u>: A hot cup of wiggly noodles with rejuvenating broth. Until the next long rest, any group of crew members that consumes a cup of Hearty Noodles gains an additional 1d10 + Character level temporary hit points.
 
 - *Daily Special*<br>
-The Cooks training can provide lengthy benefits that can help your adventuring party. More ingredients than listed here may be found throughout wildspace, and their effects may vary. To gain the benefit of the Daily Special, the crew must eat at least one meal per day prepared on a ship with an active helmsman and with the special ingredients. This must occur for two weeks before effects begin, and the effects last for two weeks from the time the last meal was consumed.
+The Cook's training can provide lengthy benefits that can help your adventuring party. More ingredients than listed here may be found throughout wildspace, and their effects may vary. To gain the benefit of the Daily Special, the crew must eat at least one meal per day prepared on a ship with an active helmsman and with the special ingredients. This must occur for two weeks before effects begin, and the effects last for two weeks from the time the last meal was consumed.
 
 \columnbreak
 
@@ -927,7 +946,7 @@ The ship moves up to half its speed in the direction of the aft (rear) edge with
     * <u>Major or Minor Helm</u> - Expend One Level 2 (or higher) Spell Slot or One Ki<br>
     * <u>Lifejammer</u> - Deal 2d8 Psychic damage to all Helmsman
 
-The vessel moves up to half its Speed forward without changing hex facing and flips along its central axis (if there were directions such as up and down in space, the ship would spin upsidown from its initial position). Until your next turn, siege weapon attacks against your ship are at disadvantage.
+The vessel moves up to half its Speed forward without changing hex facing and flips along its central axis (if there were directions such as up and down in space, the ship would spin upside down from its initial position). Until your next turn, siege weapon attacks against your ship are at disadvantage.
 
   - *Turn in Place*<br>
     * <u>Major or Minor Helm</u> - Expend One Level 2 (or higher) Spell Slot or Two Ki<br>
@@ -1005,11 +1024,11 @@ Along the plane an object is weightless, but it is slowly pushed out toward the 
 
 When gravity planes intersect (such as when two ships pass each other, or when a ship passes a planetoid), the gravities of both ships remain in effect, regardless of size, up to the point where they physically intersect. An object is under the influence of whichever gravity plane it is closest to. A character could leap between two passing ships, altering her down direction as she crosses the midpoint between the two.
 
-When two ships come into direct contact, the gravity of the ship with the higher tonnage is dominant and becomes the gravity for both ships. A large mind flayer vessel could ram a smaller ship from directly above and spin the smaller ship's gravity plane by 90 degrees, causing everything on the rammed ship to tumble toward the large ship's plane of gravity, probably with disasterous results.
+When two ships come into direct contact, the gravity of the ship with the higher tonnage is dominant and becomes the gravity for both ships. A large mind flayer vessel could ram a smaller ship from directly above and spin the smaller ship's gravity plane by 90 degrees, causing everything on the rammed ship to tumble toward the large ship's plane of gravity, probably with disastrous results.
 
-A weightless character who enters the air envelope of a larger body is immediately affected by the pull of gravity on that body. She effectively falls the distance from where she entered to the surface of the body or to the gravity plane, whichever is closer. Normal falling damage is applied, as well as massive damage rules. When the drop is more than one mile, there is also danger of the subject heating up and igniting from friction with the air. This happens after one mile of uncontorlled descent. The falling object catches fire and takes normal damage from fire as well as falling damage. Any sort of control over speed and descent (flight, levitation, feather fall, etc) negates this effect.
+A weightless character who enters the air envelope of a larger body is immediately affected by the pull of gravity on that body. She effectively falls the distance from where she entered to the surface of the body or to the gravity plane, whichever is closer. Normal falling damage is applied, as well as massive damage rules. When the drop is more than one mile, there is also danger of the subject heating up and igniting from friction with the air. This happens after one mile of uncontrolled descent. The falling object catches fire and takes normal damage from fire as well as falling damage. Any sort of control over speed and descent (flight, levitation, feather fall, etc) negates this effect.
 
-Characters who are weightless can move under familiar laws of physics - For every action, there is an equal and opposite reaction. A drifting fighter may move by throwing her equpiment in the opposite direction. Max movement is half-speed when acting this way. Combat in a weightless environment is difficult and foreign to creatures used to fighting in normal environments, and any attack roll or saving throw using STR, DEX, or CON is made at disadvantage.
+Characters who are weightless can move under familiar laws of physics - For every action, there is an equal and opposite reaction. A drifting fighter may move by throwing her equipment in the opposite direction. Max movement is half-speed when acting this way. Combat in a weightless environment is difficult and foreign to creatures used to fighting in normal environments, and any attack roll or saving throw using STR, DEX, or CON is made at disadvantage.
 
 \pagebreakNum
 
@@ -1039,7 +1058,7 @@ Deadly air is completely depleted. It cannot support life that breathes air. Thi
 
 A creature falling unconscious in this way in the Phlogiston is put into suspended animation until such time as they are found or their body is destroyed, whichever comes first. Their flesh turns gray and stonelike and remains that way until the individual is rescued. Some races do excellent business in robbing and enslaving the unfortunate individuals they find adrift in the depths of Phlogiston.
 
-When two bodies meet in space, their atmosphere is exchanged. The class of air (Fresh or Fouled) in the body that is smaller becomes that of the larger body. If the smaller body is at least 50% of the tonnage of the larger, both get one half as much air as the larger had remaining. If the smaller is less than 50% the size of the larger, both get the largers full supply of air, minus one week. The same rules apply for individual creatures, except on the smaller scale.
+When two bodies meet in space, their atmosphere is exchanged. The class of air (Fresh or Fouled) in the body that is smaller becomes that of the larger body. If the smaller body is at least 50% of the tonnage of the larger, both get one half as much air as the larger had remaining. If the smaller is less than 50% the size of the larger, both get the larger's full supply of air, minus one week. The same rules apply for individual creatures, except on the smaller scale.
 
 Creatures that do not breathe (undead, golems, etc) are unaffected by the status of the air envelopes but still carry the envelops and exchange air. The envelope still depletes as normal.
 
@@ -1058,7 +1077,8 @@ Creatures that do not breathe (undead, golems, etc) are unaffected by the status
 Below are listed various ship types found throughout Wildspace. This is not an exhaustive list of all ship types, but a basic list of various ships and their sizes. You can refer to Pages 119 and 246-247 in the *Dungeon Masters Guide* for more information about Water- and Air-borne Vehicles, Object AC, Object HP, and Damage Threshold. The AC and Damage Threshold values located in this table are adapted from those pages.
 
 </div>
- 
+
+&nbsp;
 
 <div class='classTable wide'>
 
@@ -1086,11 +1106,14 @@ Man-o-War|10/60|4|17|550|25|200|20|4 Large|60|Major
 Deathspider|30/100|1|19|1000|30|175|50|6 Large|100|Major
 Armada|40/100|1|23|1000|30|300|30|14 Large|100|Major
 Citadel|100/300|1|23|3000|30|300|200|12 Medium & 8 Large|300|Artiforge
+
 </div>
+
+&nbsp;
 
 \columnbreak
 
-*<p style="text-align: right;">Some veterans of Space Travel will note that some of these numbers do not match with the original Spelljammer content. This is done on purpose.</p>*
+*<p style="text-align: right;">Some veterans of Space Travel will note that some of these numbers do not match with the original Spelljammer content. This is done on purpose. </p>*
 
 \pagebreakNum
 <div class='classTable wide'>
@@ -1132,8 +1155,8 @@ Jettison Shot|2 sp per shot|A package of sharp glass for a jettison. Deals Pierc
 **ITEM NAME**|**Cost**|**Notes**
 :-----|:-----:|:-----:
 Passage Device|5,000 gp|A device installed in the Helm that functions, when activated, as the *Portal Magic* spell
-Sextent|2,000 gp|A device installed in the ship that gives any character aboard advantage on Survival checks to find their own location in wildspace in any sphere
-Plantetary Locator|4,000 gp|When a ship carrying a "Planetary Locator" installed enters a Crystal Shell, the device immediately tracks Size B through F celestial bodies and displays them as a 3d Image. This 3d image functions as the *Silent Image* spell to display the current crystal shell
+Sextant|2,000 gp|A device installed in the ship that gives any character aboard advantage on Survival checks to find their own location in wildspace in any sphere
+Planetary Locator|4,000 gp|When a ship carrying a "Planetary Locator" installed enters a Crystal Shell, the device immediately tracks Size B through F celestial bodies and displays them as a 3d Image. This 3d image functions as the *Silent Image* spell to display the current crystal shell
 Star Chart|100-600 gp|A hand-drawn, 2d map. May have notes (by the cartographer) such as hostile forces, rumored treasure, and spaceborne powers operating in the region
 Scanning Device|5,000 gp|When installed in a ship, the *Scanning Device* gives additional information to the *Magic Officer*, using the *Spyglass* Ship Action - Remaining Ship HP, Cargo, and any other interesting characteristics per DM discretion 
 Anchor|10 gp per tonnage|Used to moor a ship to a larger body or tie several ships together
@@ -1170,7 +1193,7 @@ Lifeboat | Large- 10,000 gp<br> Medium- 5,000 gp Small- 1,000 gp. |A Large lifeb
 
 The Wizard and Artificer have learned to bend the very magical essence of the universe through study, and the Sorcerer and Mystic through sheer force of will or personality. Clerics and Paladins receive their spells through the offices of her deity, and the Druid and Ranger pull on the very essence of terrestrial bodies themselves. Lastly, Warlocks have been gifted the source of their power from their respective patrons. This all may change in the universe, and no two places may change in the same way. 
 
-The effects of certain arcane and divine spells and spell-like abilities are limited in the Phlogiston that lies between Crysal Spheres. The power of the helm allows individuals to operate a Spelljamming Helm in the flow without consequence, but magic use may be severely hampered or twisted in the Phlogiston due to its turbulent nature, and may operate differently at different times.
+The effects of certain arcane and divine spells and spell-like abilities are limited in the Phlogiston that lies between Crystal Spheres. The power of the helm allows individuals to operate a Spelljamming Helm in the flow without consequence, but magic use may be severely hampered or twisted in the Phlogiston due to its turbulent nature, and may operate differently at different times.
 
 ### Spell Ranges
 In space, any spells with a five mile or less range may only target creatures or objects that are in an adjacent hex space. Any spells with a larger than five mile radius, or that have a range of Sight, may effect creatures or objects on the battlefield if you can clearly see the target. Outside of ship combat, any spells with a larger than five mile radius is up to DM discretion.
@@ -1178,7 +1201,7 @@ In space, any spells with a five mile or less range may only target creatures or
 \columnbreak
 
 ### Gods and Patrons
-*Optionally*, DM's may consider limiting spells from the Druid, Ranger, Cleric, Paladin, and Warlock classes above 3rd level in a sphere that a deity or patron is not recognized in. It will be necessary to contact a local group that can assist in providing an alliance with a God or Patron to regain full spellcasting ability. In general, Gods with the same or similar Domains have an alliance and will be able to convey magic ability, sometimes for a fee or with the completion of a quest. Similarly, pulling from the very essense of nature may be difficult if the world is too foreign.
+*Optionally*, DM's may consider limiting spells from the Druid, Ranger, Cleric, Paladin, and Warlock classes above 3rd level in a sphere that a deity or patron is not recognized in. It will be necessary to contact a local group that can assist in providing an alliance with a God or Patron to regain full spellcasting ability. In general, Gods with the same or similar Domains have an alliance and will be able to convey magic ability, sometimes for a fee or with the completion of a quest. Similarly, pulling from the very essence of nature may be difficult if the world is too foreign.
 
 If a deity is worshipped in the Crystal Shell the party are touring (or if the DM chooses not to use this optional rule) then magic works the same in all Crystal Shells, regardless of the existence of any Gods or Patrons there.
 
@@ -1275,7 +1298,7 @@ You either create or destroy air.
 
 *Create Air*
 
-You replace, replenish, and refresh the air in a personal air envelope for 10 minutes for any creature within range, including air poisoned/tained by spells such as *Cloudkill* and *Stinking Cloud*. This does not create a larger in size envelope, but simply replenishes the air in the envelope that the creature drags with it. If the air is fouled, the air turns fresh again and the air timer resets to 10 minutes. If used within a spell or effect that causes a cloud (similar to the *Fog Cloud*, *Cloudkill* and *Stinking Cloud* spells) the creature is allowed an immediate save against the effects of the spell.
+You replace, replenish, and refresh the air in a personal air envelope for 10 minutes for any creature within range, including air poisoned/tainted by spells such as *Cloudkill* and *Stinking Cloud*. This does not create a larger in size envelope, but simply replenishes the air in the envelope that the creature drags with it. If the air is fouled, the air turns fresh again and the air timer resets to 10 minutes. If used within a spell or effect that causes a cloud (similar to the *Fog Cloud*, *Cloudkill* and *Stinking Cloud* spells) the creature is allowed an immediate save against the effects of the spell.
 
 *Destroy Air*
 
@@ -1498,7 +1521,7 @@ You may want to have more planets or a single planet in the system you create. T
 
 Standard systems orbiting around a Primary body have a perfectly circular orbit (This is to keep with our simple random generation theme). In order to place our planets in this system easily, we have 100 circular "rings", stepping increasingly away from the Primary Body in 50 million mile (A half-days of travel) increments; Planets and other space-bourne bodies can only appear on these rings, and the rings represent their orbital trajectory around the Primary Body.
 
-A Spelljamming ship in Wildspace travels at 100 million miles in a 24 hour period (about 4 million miles per hour). This means that, from the Primary Body to the closest point on the first "ring", it will take 12 hours of uninterruped travel in a Spelljamming ship. From the Primary Body to the closest point of the final "ring" (Ring number 100), it takes 50 days of uninterrupted travel in a Spelljamming ship.
+A Spelljamming ship in Wildspace travels at 100 million miles in a 24 hour period (about 4 million miles per hour). This means that, from the Primary Body to the closest point on the first "ring", it will take 12 hours of uninterrupted travel in a Spelljamming ship. From the Primary Body to the closest point of the final "ring" (Ring number 100), it takes 50 days of uninterrupted travel in a Spelljamming ship.
 
 For each of the planets created, roll a D100 to determine what ring you will place it on. If you roll the same number twice, you can choose to either re-roll or move the planet to an adjacent ring. Keep in mind that familiarity breeds contempt, and neighboring planets may not be on the best of terms . . .
 
@@ -1603,7 +1626,7 @@ When players enter a dungeon room, they are able to ascertain information from t
 <br>
 
 **Red**- Dead; littered with forgotten dungeons, relics, and ancient evil. Has no life, or almost no life.<br>
-**Orange**- Dying; Post-societial barbarism. Civilization has collapsed, for the most part. Remnants of old, broken technology and magic.<br>
+**Orange**- Dying; Post-societal barbarism. Civilization has collapsed, for the most part. Remnants of old, broken technology and magic.<br>
 **Yellow**- Primeval; Large swaths of unexplored wilderness. Beginnings of civilization.<br>
 **Green**- Early Civilization; Possibility of early firearms.<br>
 **Blue**- Civilized; Generally advised to be approximately equal to the PC's technology level.<br>
@@ -1657,14 +1680,6 @@ See you space cowboy.
 \pagebreakNum
 
 <img src='https://www.gmbinder.com/images/Rpewbgz.jpg' style='position:absolute;top:0px;left:0px;width:100%;;'/>
-
-\pagebreak
-
-# LEGAL INFORMATION
-
-<br>Spelljammer Companion: Sword and Sorcery in Space is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. © Wizards of the Coast LLC.
-
-For more information on the Wizards of the Coast Fan Content policy, please see [This Website](https://company.wizards.com/fancontentpolicy)
 
 \pagebreak
 
