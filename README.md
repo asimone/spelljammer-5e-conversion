@@ -2,6 +2,8 @@
 
 UPDATE: A different person has taken a deeper stab at 5e conversion system and it's worth looking at: https://www.reddit.com/r/spelljammer/comments/jphupm/5e_spelljammer_conversion/
 
+-----------------------------------------------------------
+
 Unfinished and abandoned per creator: https://www.reddit.com/user/Ubiquity4321
 
 Reddit thread where [/u/Ubiquity4321](https://www.reddit.com/user/Ubiquity4321) turned over the document: https://www.reddit.com/r/spelljammer/comments/a85qpt/giving_the_spelljammer_doc_to_the_community/
